@@ -1,0 +1,14 @@
+//
+// Created by Junius7 on 2023-07-26.
+//
+
+#ifndef VISUALIZEALGORITHMS_MERGESORT_H
+#define VISUALIZEALGORITHMS_MERGESORT_H
+
+
+class MergeSort {
+
+};
+
+
+#endif //VISUALIZEALGORITHMS_MERGESORT_H
